@@ -1,0 +1,8 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+    padding: 80px;
+    overflow-x: hidden;
+  }
+  

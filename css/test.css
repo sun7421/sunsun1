@@ -1,0 +1,41 @@
+div.back{
+    background-color: aqua;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+nav{
+    background-color:rgba(0,255,255,0.4);
+    height: 80px;
+}
+nav .title{
+    margin-top:30px ;
+    margin-left: 10px;
+    background-color: blueviolet;
+    display: inline-block;
+    color: aliceblue;
+}
+body{
+    font-family:fantasy;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.box{
+    background-color:burlywood;
+    margin:1%;
+    padding:10px;
+    border:5px dotted;
+    box-shadow:red;
+}
+.box.box-header{
+    background-color: rgb(34,104,104);
+
+
+}
+img{
+    text-align: center;
+}
